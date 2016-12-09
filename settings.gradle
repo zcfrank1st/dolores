@@ -1,0 +1,3 @@
+rootProject.name = 'dolores'
+
+include 'dolores-core', 'dolores-example'
